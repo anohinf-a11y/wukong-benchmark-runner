@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfV35mvFos0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Shenanigans\\WukongBenchmarkRunner\\WukongBenchmarkRunner\\WukongBenchmarkRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.codedom\\10.0.0\\system.codedom.10.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.management\\10.0.0\\system.management.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

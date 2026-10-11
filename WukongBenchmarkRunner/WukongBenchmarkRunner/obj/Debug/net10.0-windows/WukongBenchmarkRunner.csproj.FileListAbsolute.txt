@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\Shenanigans\WukongBenchmarkRunner\WukongBenchmarkRunner\obj\Debug\net10.0-windows\WukongBenchmarkRunner.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Shenanigans\WukongBenchmarkRunner\WukongBenchmarkRunner\obj\Debug\net10.0-windows\WukongBenchmarkRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Shenanigans\WukongBenchmarkRunner\WukongBenchmarkRunner\obj\Debug\net10.0-windows\WukongBenchmarkRunner.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Shenanigans\WukongBenchmarkRunner\WukongBenchmarkRunner\obj\Debug\net10.0-windows\WukongBenchmarkRunner.AssemblyInfo.cs
+C:\Users\admin\Desktop\Shenanigans\WukongBenchmarkRunner\WukongBenchmarkRunner\obj\Debug\net10.0-windows\WukongBenchmarkRunner.csproj.CoreCompileInputs.cache
